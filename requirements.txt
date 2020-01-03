@@ -1,3 +1,7 @@
 jupyter
 pandas
+geopandas
+geopy
 xlrd
+python-decouple
+folium
